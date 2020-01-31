@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://d1nn3r.github.io/2019/11/20/hexo-migration/</loc>
+    <lastmod>2020-01-31</lastmod>
+  </url>  <url>
     <loc>https://d1nn3r.github.io/2019/06/10/IDAPython/</loc>
     <lastmod>2020-01-10</lastmod>
   </url>  <url>
@@ -18,9 +21,6 @@
   </url>  <url>
     <loc>https://d1nn3r.github.io/2019/11/20/graphviz/</loc>
     <lastmod>2019-11-25</lastmod>
-  </url>  <url>
-    <loc>https://d1nn3r.github.io/2019/11/20/hexo-migration/</loc>
-    <lastmod>2019-11-20</lastmod>
   </url>  <url>
     <loc>https://d1nn3r.github.io/2019/02/16/buildClamAV/</loc>
     <lastmod>2019-09-01</lastmod>

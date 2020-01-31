@@ -107,7 +107,7 @@
     <link href="https://d1nn3r.github.io/2019/11/20/hexo-migration/"/>
     <id>https://d1nn3r.github.io/2019/11/20/hexo-migration/</id>
     <published>2019-11-20T07:28:20.000Z</published>
-    <updated>2019-11-20T07:33:09.724Z</updated>
+    <updated>2020-01-31T08:21:15.272Z</updated>
     
     <summary type="html">
     
@@ -1126,8 +1126,6 @@
     
       <category term="pwn" scheme="https://d1nn3r.github.io/tags/pwn/"/>
     
-      <category term="stack spray" scheme="https://d1nn3r.github.io/tags/stack-spray/"/>
-    
       <category term="canary" scheme="https://d1nn3r.github.io/tags/canary/"/>
     
       <category term="format string" scheme="https://d1nn3r.github.io/tags/format-string/"/>
@@ -1135,6 +1133,8 @@
       <category term="文件描述符" scheme="https://d1nn3r.github.io/tags/%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6/"/>
     
       <category term="shell command" scheme="https://d1nn3r.github.io/tags/shell-command/"/>
+    
+      <category term="stack spray" scheme="https://d1nn3r.github.io/tags/stack-spray/"/>
     
   </entry>
   
@@ -1158,6 +1158,8 @@
     
       <category term="pwn" scheme="https://d1nn3r.github.io/tags/pwn/"/>
     
+      <category term="stack spray" scheme="https://d1nn3r.github.io/tags/stack-spray/"/>
+    
       <category term="无泄漏" scheme="https://d1nn3r.github.io/tags/%E6%97%A0%E6%B3%84%E6%BC%8F/"/>
     
       <category term="double free" scheme="https://d1nn3r.github.io/tags/double-free/"/>
@@ -1167,8 +1169,6 @@
       <category term="program_invocation_name" scheme="https://d1nn3r.github.io/tags/program-invocation-name/"/>
     
       <category term="双字节爆破" scheme="https://d1nn3r.github.io/tags/%E5%8F%8C%E5%AD%97%E8%8A%82%E7%88%86%E7%A0%B4/"/>
-    
-      <category term="stack spray" scheme="https://d1nn3r.github.io/tags/stack-spray/"/>
     
   </entry>
   
